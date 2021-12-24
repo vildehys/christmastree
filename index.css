@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to bottom right, red, yellow);
+  background-repeat: no-repeat;
+}
+
+.baubles {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+}
+
+.tree {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.decoration {
+  width: 30px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
